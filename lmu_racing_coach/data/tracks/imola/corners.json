@@ -1,0 +1,86 @@
+[
+  {
+    "id": "t1",
+    "name": "Tamburello",
+    "sequence": 1,
+    "type": "chicane",
+    "distance_hint_m": 0,
+    "progress": 0.085,
+    "x": 0.848,
+    "y": 0.332,
+    "label_x": 0.875,
+    "label_y": 0.295
+  },
+  {
+    "id": "t2",
+    "name": "Villeneuve",
+    "sequence": 2,
+    "type": "chicane",
+    "distance_hint_m": 530,
+    "progress": 0.185,
+    "x": 0.782,
+    "y": 0.455,
+    "label_x": 0.812,
+    "label_y": 0.502
+  },
+  {
+    "id": "t3",
+    "name": "Tosa",
+    "sequence": 3,
+    "type": "hairpin",
+    "distance_hint_m": 980,
+    "progress": 0.315,
+    "x": 0.646,
+    "y": 0.678,
+    "label_x": 0.68,
+    "label_y": 0.733
+  },
+  {
+    "id": "t4",
+    "name": "Piratella",
+    "sequence": 4,
+    "type": "left",
+    "distance_hint_m": 1450,
+    "progress": 0.455,
+    "x": 0.332,
+    "y": 0.645,
+    "label_x": 0.238,
+    "label_y": 0.685
+  },
+  {
+    "id": "t5",
+    "name": "Acque Minerali",
+    "sequence": 5,
+    "type": "complex",
+    "distance_hint_m": 2020,
+    "progress": 0.595,
+    "x": 0.188,
+    "y": 0.38,
+    "label_x": 0.055,
+    "label_y": 0.38
+  },
+  {
+    "id": "t6",
+    "name": "Variante Alta",
+    "sequence": 6,
+    "type": "chicane",
+    "distance_hint_m": 2670,
+    "progress": 0.745,
+    "x": 0.318,
+    "y": 0.15,
+    "label_x": 0.175,
+    "label_y": 0.128
+  },
+  {
+    "id": "t7",
+    "name": "Rivazza",
+    "sequence": 7,
+    "type": "double_right",
+    "distance_hint_m": 3300,
+    "progress": 0.875,
+    "x": 0.6,
+    "y": 0.105,
+    "label_x": 0.625,
+    "label_y": 0.045
+  }
+]

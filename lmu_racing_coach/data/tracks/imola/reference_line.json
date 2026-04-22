@@ -1,0 +1,217 @@
+{
+  "version": 3,
+  "source": "internal_svg_redraw_v1",
+  "polyline": [
+    {
+      "x": 0.865,
+      "y": 0.195
+    },
+    {
+      "x": 0.87,
+      "y": 0.25
+    },
+    {
+      "x": 0.86,
+      "y": 0.32
+    },
+    {
+      "x": 0.83,
+      "y": 0.395
+    },
+    {
+      "x": 0.79,
+      "y": 0.455
+    },
+    {
+      "x": 0.755,
+      "y": 0.515
+    },
+    {
+      "x": 0.73,
+      "y": 0.57
+    },
+    {
+      "x": 0.7,
+      "y": 0.63
+    },
+    {
+      "x": 0.655,
+      "y": 0.68
+    },
+    {
+      "x": 0.59,
+      "y": 0.71
+    },
+    {
+      "x": 0.52,
+      "y": 0.715
+    },
+    {
+      "x": 0.45,
+      "y": 0.7
+    },
+    {
+      "x": 0.39,
+      "y": 0.675
+    },
+    {
+      "x": 0.33,
+      "y": 0.645
+    },
+    {
+      "x": 0.275,
+      "y": 0.61
+    },
+    {
+      "x": 0.23,
+      "y": 0.565
+    },
+    {
+      "x": 0.198,
+      "y": 0.51
+    },
+    {
+      "x": 0.184,
+      "y": 0.445
+    },
+    {
+      "x": 0.186,
+      "y": 0.38
+    },
+    {
+      "x": 0.202,
+      "y": 0.32
+    },
+    {
+      "x": 0.228,
+      "y": 0.255
+    },
+    {
+      "x": 0.268,
+      "y": 0.195
+    },
+    {
+      "x": 0.318,
+      "y": 0.15
+    },
+    {
+      "x": 0.378,
+      "y": 0.118
+    },
+    {
+      "x": 0.45,
+      "y": 0.098
+    },
+    {
+      "x": 0.525,
+      "y": 0.095
+    },
+    {
+      "x": 0.602,
+      "y": 0.105
+    },
+    {
+      "x": 0.675,
+      "y": 0.125
+    },
+    {
+      "x": 0.748,
+      "y": 0.15
+    },
+    {
+      "x": 0.815,
+      "y": 0.178
+    }
+  ],
+  "brake_markers": [
+    {
+      "corner_id": "t1",
+      "progress": 0.066,
+      "distance_to_corner_m": 95
+    },
+    {
+      "corner_id": "t2",
+      "progress": 0.165,
+      "distance_to_corner_m": 75
+    },
+    {
+      "corner_id": "t3",
+      "progress": 0.292,
+      "distance_to_corner_m": 110
+    },
+    {
+      "corner_id": "t4",
+      "progress": 0.435,
+      "distance_to_corner_m": 55
+    },
+    {
+      "corner_id": "t5",
+      "progress": 0.57,
+      "distance_to_corner_m": 120
+    },
+    {
+      "corner_id": "t6",
+      "progress": 0.722,
+      "distance_to_corner_m": 90
+    },
+    {
+      "corner_id": "t7",
+      "progress": 0.855,
+      "distance_to_corner_m": 85
+    }
+  ],
+  "throttle_zones": [
+    {
+      "from_progress": 0.0,
+      "to_progress": 0.052
+    },
+    {
+      "from_progress": 0.105,
+      "to_progress": 0.152
+    },
+    {
+      "from_progress": 0.205,
+      "to_progress": 0.282
+    },
+    {
+      "from_progress": 0.338,
+      "to_progress": 0.42
+    },
+    {
+      "from_progress": 0.478,
+      "to_progress": 0.548
+    },
+    {
+      "from_progress": 0.62,
+      "to_progress": 0.7
+    },
+    {
+      "from_progress": 0.772,
+      "to_progress": 0.84
+    },
+    {
+      "from_progress": 0.9,
+      "to_progress": 0.985
+    }
+  ],
+  "sectors": [
+    {
+      "id": "s1",
+      "name": "Sector 1",
+      "start_progress": 0.0,
+      "end_progress": 0.333
+    },
+    {
+      "id": "s2",
+      "name": "Sector 2",
+      "start_progress": 0.333,
+      "end_progress": 0.666
+    },
+    {
+      "id": "s3",
+      "name": "Sector 3",
+      "start_progress": 0.666,
+      "end_progress": 1.0
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "track_id": "imola",
+  "display_name": "Autodromo Internazionale Enzo e Dino Ferrari",
+  "short_name": "Imola",
+  "country": "Italy",
+  "length_m": 4909,
+  "coach_mode": "dashboard_live_demo",
+  "status": "ui_ready_svg_pack",
+  "map_bounds": {
+    "x": 1000,
+    "y": 800
+  },
+  "assets": {
+    "map_svg_file": "map.svg",
+    "map_svg_json": "map_svg.json",
+    "spectator_map_png": "/assets/imola/wec_spectator_map_imola_2026.png"
+  },
+  "notes": [
+    "Internal SVG redraw for UI use.",
+    "Replace with telemetry-calibrated geometry once real lap-distance mapping is complete.",
+    "Spectator map background sourced from uploaded WEC 2026 Imola 6 Hours PDF for visual reference only."
+  ]
+}
