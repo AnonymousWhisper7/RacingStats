@@ -1,0 +1,17 @@
+{
+  "track_id": "imola",
+  "display_name": "Autodromo Internazionale Enzo e Dino Ferrari",
+  "short_name": "Imola",
+  "country": "Italy",
+  "length_m": 4909,
+  "coach_mode": "dashboard_live_demo",
+  "status": "ui_ready_starter_pack",
+  "map_bounds": {
+    "x": 1,
+    "y": 1
+  },
+  "notes": [
+    "Starter pack for the dashboard and live coaching widgets.",
+    "Replace demo geometry with calibrated telemetry-derived track geometry later."
+  ]
+}
